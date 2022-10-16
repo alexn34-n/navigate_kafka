@@ -1,4 +1,4 @@
-package com.nagigate.ship.ship;
+package com.navigate.ship.ship;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

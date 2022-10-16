@@ -1,4 +1,4 @@
-package com.nagigate.ship.ship;
+package com.navigate.ship.ship;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
