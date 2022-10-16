@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/navigate_kafka.iml" filepath="$PROJECT_DIR$/.idea/navigate_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/office/office.iml" filepath="$PROJECT_DIR$/office/office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ship/ship.iml" filepath="$PROJECT_DIR$/ship/ship.iml" />
+    </modules>
+  </component>
+</project>
