@@ -13,7 +13,7 @@ spring:
 application:
   boards:
     - name: "BFI 1"
-      location: "Tempuk"
+      location: "Temruk"
       speed: 3
     - name: "BFI 2"
       location: "Poti"

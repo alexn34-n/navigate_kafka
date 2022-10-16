@@ -13,7 +13,7 @@ spring:
 
       application:
         ports:
-          - name: "Tempuk"
+          - name: "Temruk"
             x: 10
             y: 20
           - name: "Poti"
